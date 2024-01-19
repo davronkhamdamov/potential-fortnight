@@ -96,7 +96,7 @@ header {
   line-height: 42px;
 }
 .features {
-  position: relative;
+  /* position: relative; */
   bottom: 100px;
   /* margin: 20px; */
   display: flex;
